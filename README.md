@@ -1,51 +1,65 @@
-# WattShare Support
+# WattShare
 
-Welcome to WattShare support!
+**Split electricity bills fairly based on actual meter readings.**
 
-## About WattShare
+[![Download on the App Store](https://img.shields.io/badge/Download-App%20Store-blue?logo=apple)](https://apps.apple.com/app/wattshare)
 
-WattShare is an iOS app that helps you fairly split electricity bills between roommates, tenants, or family members based on actual meter readings.
+## About
+
+WattShare is an iOS app that helps you fairly split electricity bills between roommates, tenants, or family members based on actual meter readings. No more arguments over utility costs!
 
 ## Features
 
-- **Smart Bill Splitting** - Split bills proportionally based on consumption
-- **Multi-Account Support** - Manage multiple electricity accounts
-- **Consumption Tracking** - View trends with beautiful charts
-- **Import/Export** - Import from Excel/CSV, export to PDF
+### ⚡ Smart Bill Splitting
+- Split bills proportionally based on actual consumption
+- Support for equal split and fixed percentage methods
+- Track consumption for each unit/flat separately
 
-## Frequently Asked Questions
+### 📊 Comprehensive Tracking
+- Record and view bill history over time
+- Beautiful charts showing consumption trends
+- Compare usage across different periods
 
-### How do I add a new bill?
-1. Go to the Bills tab
-2. Tap the + button
-3. Enter the bill date, total amount, and meter readings for each flat
-4. Tap Save
+### 🏠 Multi-Account Support
+- Manage multiple electricity accounts
+- Perfect for landlords with multiple properties
+- Each account has its own flats and bills
 
-### How do I add a new account?
-1. Go to Settings
-2. Under "Account Numbers", tap "Add Account"
-3. Enter the account number and label
-4. Add flats to the account
+### 📁 Easy Data Management
+- Import bills from Excel/CSV files
+- Export reports in PDF, CSV, or Excel format
+- Automatic calculations save you time
 
-### How do I import bills from Excel?
-1. Go to the Import tab
-2. Download the template
-3. Fill in your data in Excel/Numbers
-4. Select the file and import
+### 🌍 Multilingual
+Available in 11 languages:
+- English, Arabic, Spanish, French, Chinese
+- Italian, Urdu, Hindi, Tagalog, Korean, Japanese
 
-### Is my data safe?
-Yes! All your data is stored locally on your device. WattShare does not collect or transmit any personal data.
+### 🔒 Privacy First
+- All data stored locally on your device
+- No account required
+- No data collection or tracking
 
-## Contact Support
+## Screenshots
 
-If you have questions or need help, please:
+| Dashboard | Bills | Settings |
+|-----------|-------|----------|
+| View consumption analytics | Track all your bills | Manage accounts & flats |
 
-- **Email**: [Create an issue](https://github.com/KMG411/wattshare-support/issues)
+## Support
+
+If you need help or have questions:
+
 - **GitHub Issues**: [Report a bug or request a feature](https://github.com/KMG411/wattshare-support/issues)
 
 ## Privacy Policy
 
-Please read our [Privacy Policy](PRIVACY_POLICY.md)
+Read our [Privacy Policy](privacy.html)
+
+## Links
+
+- [Support Page](https://wattshare-support.vercel.app)
+- [Privacy Policy](https://wattshare-support.vercel.app/privacy.html)
 
 ---
 
